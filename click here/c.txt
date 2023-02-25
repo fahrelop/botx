@@ -1,0 +1,12 @@
+intitle:my blog my wordpress blog site:.com intext:hello world
+intitle:my blog my wordpress blog site:.net intext:hello world
+intitle:my blog my wordpress blog site:.org intext:2022 intext:hello world
+intitle:my blog my wordpress blog site:.com intext:2022 intext:hello world
+intitle:just another wordpress site:com
+intitle:just another wordpress site:com intext:2022
+intitle:just another wordpress site:br intext:2022
+intitle:just another wordpress site:net intext:2022
+intitle:just another wordpress site:id intext:2022
+intitle:just another wordpress site:co.id intext:2022
+intitle:just another wordpress site:za intext:2022
+intitle:just another wordpress site:space intext:2022
